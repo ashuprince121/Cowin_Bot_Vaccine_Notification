@@ -1,0 +1,1 @@
+worker: python co_winBot.py
