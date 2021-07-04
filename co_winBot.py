@@ -9,7 +9,7 @@ now = datetime.now()
 today_date = now.strftime("%d-%m-%Y")
 
 #telegram api url
-tg_api_url="https://api.telegram.org/bot1784237012:AAEHwx5k27NhnJ1n1QWNlE7mTYkKEFfbaFg/sendMessage?chat_id=@nowvaccine&text="
+tg_api_url="https://api.telegram.org/bot[BOT_API_KEY]/sendMessage?chat_id=[MY_CHANNEL_NAME]&text=[MY_MESSAGE_TEXT]"
 
 
 punjab_dist_ids=[479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500]
