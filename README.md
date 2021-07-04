@@ -1,4 +1,5 @@
 # Cowin_Bot_Vaccine_Notification
+![Vaccine_bot](https://media.giphy.com/media/6BZ4Kxodh4rUnGKYil/giphy.gif)<br>
 Get Vaccine Notification for 18+ 1st Dose [PUNJAB ONLY]<br>
 In order to run it: <br>
 1.Install requirements using pip install requirements<br>
